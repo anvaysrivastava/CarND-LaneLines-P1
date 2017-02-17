@@ -1,5 +1,9 @@
 
 **Finding Lane Lines on the Road**
+## How to Run
+* Run Notebook
+* Create a folder output inside test_images
+* Inside Notebook Cell -> Run All 
 
 ## Steps of Pipeline
 
