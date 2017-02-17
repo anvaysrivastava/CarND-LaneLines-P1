@@ -20,12 +20,12 @@ The Pipeline for video is a superset of pipeline for image.
 * Have a weighted sum of average lane lines and present frame's lane lines.
 * Plot the new average.
 
-### Shortcoming of present pipeline
+## Shortcoming of present pipeline
 * Hard coded to have 2 lanes.
 * Hard coded that the camera perspective will be in the middle of the lane.
 * Edge detection not working properly on the change of shadow/road texture.
 
 
-### Possible improvements to pipeline.
+## Possible improvements to pipeline.
 * Higher contrast in videos for better edge detection.
 * Better logic of creating clusters of lane lines, rather than filtering based on slopes.
